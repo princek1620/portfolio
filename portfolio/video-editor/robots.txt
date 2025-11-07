@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://nobleosinachi.github.io/video-editor/sitemap-video-editor.xml
